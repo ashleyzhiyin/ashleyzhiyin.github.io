@@ -26,16 +26,6 @@ theme = 'hugo-theme-nix'
     url    = "/posts"
 
   [[menu.header]]
-    parent = "post"
-    name   = "Categories"
-    url    = "/categories"
-
-  [[menu.header]]
-    parent = "post"
-    name   = "Tags"
-    url    = "/tags"
-
-  [[menu.header]]
     name   = "About"
     url    = "/about"
     weight = 10
