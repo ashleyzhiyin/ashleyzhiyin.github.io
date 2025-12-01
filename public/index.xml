@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in About on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Dec 2025 00:27:02 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Life at CPGFM</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Tue, 02 Dec 2025 00:27:02 +0800</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>&lt;p&gt;Grateful to Singapore and CPGFM for Giving Me a New Lease on Life&lt;/p&gt;&#xA;&lt;p&gt;The past six months in Singapore have marked a fresh start in my life, and I’m deeply grateful for the support from &lt;a href=&#34;https://www.linkedin.com/company/cpg-facilities-management-pte-ltd/&#34;&gt;CPG Facilities Management Pte Ltd (CPG FM)&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I discovered my career path. Thanks to the leaders and colleagues I’ve met, I’ve received respect and valuable guidance in the workplace. They taught me essential business skills, as well as effective communication and collaboration techniques. I applied my policy analysis and data analytics skills in the industry and also took the initiative to learn foundational finance and accounting knowledge to broaden my expertise.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

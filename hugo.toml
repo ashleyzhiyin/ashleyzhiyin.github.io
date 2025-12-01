@@ -1,0 +1,41 @@
+baseURL = 'https://ashleyzhiyin.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'hugo-theme-nix'
+
+[params]
+  Name           = "Zhiyin Zhang"
+  HeaderUsername = "ashleyzhiyin"
+  HeaderHostname = "github.io"
+  About          = "Portfolio | Quant Modeling • Risk Management • Trading Strategies @upenn"
+  ProfilePicture = "images/avatar.jpg"
+  GithubID       = "https://github.com/ashleyzhiyin"
+  LinkedinID     = "https://www.linkedin.com/in/zhiyin-zhang-3402412b9/"
+  Email          = "zhiyinzh@upenn.edu"
+  
+
+[menu]
+  [[menu.header]]
+    identifier = "post"
+    name       = "posts"
+    weight     = 0
+
+  [[menu.header]]
+    parent = "post"
+    name   = "All Posts"
+    url    = "/posts"
+
+  [[menu.header]]
+    parent = "post"
+    name   = "Categories"
+    url    = "/categories"
+
+  [[menu.header]]
+    parent = "post"
+    name   = "Tags"
+    url    = "/tags"
+
+  [[menu.header]]
+    name   = "About"
+    url    = "/about"
+    weight = 10
