@@ -1,6 +1,6 @@
 baseURL = 'https://ashleyzhiyin.github.io/'
 languageCode = 'en-us'
-title = "Zhiyin Zhang Home Page'
+title = 'Zhiyin Zhang Home Page'
 theme = 'hugo-theme-nix'
 
 [params]
