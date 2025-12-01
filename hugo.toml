@@ -9,8 +9,8 @@ theme = 'hugo-theme-nix'
   HeaderHostname = "github.io"
   About          = "Portfolio | Quant Modeling • Risk Management • Trading Strategies @upenn"
   ProfilePicture = "images/avatar.jpg"
-  GithubID       = "https://github.com/ashleyzhiyin"
-  LinkedinID     = "https://www.linkedin.com/in/zhiyin-zhang-3402412b9/"
+  GithubID       = "ashleyzhiyin"
+  LinkedinID     = "zhiyin-zhang-3402412b9/"
   Email          = "zhiyinzh@upenn.edu"
   
 
