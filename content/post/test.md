@@ -1,7 +1,7 @@
 +++
-date = '2025-12-02T00:27:02+08:00'
+date = "2025-12-02T00:27:02+08:00"
 draft = false
-title = 'Life at CPGFM'
+title = "Life at CPGFM"
 +++
 
 Grateful to Singapore and CPGFM for Giving Me a New Lease on Life

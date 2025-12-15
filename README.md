@@ -16,7 +16,7 @@
 
 ## Add new posts
 
-`hugo new content posts/your-post.md`
+`hugo new content post/your-post.md`
 
 ## Build draft (skip this if you don't need a preview)
 

@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on My New Hugo Site</title>
+    <title>Zhiyin Zhang&#39;s Homepage</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in About on My New Hugo Site</description>
+    <description>Recent content on Zhiyin Zhang&#39;s Homepage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Dec 2025 00:27:02 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 00:37:00 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 02 Dec 2025 00:37:00 +0800</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;hi-there-&#34;&gt;Hi there 🍀&lt;/h2&gt;&#xA;&lt;h2 id=&#34;zhiyin-zhang&#34;&gt;Zhiyin Zhang&lt;/h2&gt;&#xA;&lt;p&gt;Hi, I’m Zhiyin(Ashley) Zhang. I am a future asset analyst with quantitative insights to support investment decisions.&lt;/p&gt;&#xA;&lt;h1 id=&#34;career-focus&#34;&gt;Career Focus&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Asset/risk management&lt;/li&gt;&#xA;&lt;li&gt;Currently exploring opportunities in Hong Kong / Singapore / US buy-side firms&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;experience&#34;&gt;Experience&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Equity Analyst Intern: World Quant Brain (Singapore)&lt;/li&gt;&#xA;&lt;li&gt;Equity Analyst Intern: China International Capital Corporation Limited (China Shanghai)&lt;/li&gt;&#xA;&lt;li&gt;Investment Member: Wharton PE/VC Club ｜ Wharton Chinese Association (US PA)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Social Policy in Economic Track (M.S) | University ofPennsylvania&lt;/li&gt;&#xA;&lt;li&gt;Computer Science (M.S) | Northern Arizona University&lt;/li&gt;&#xA;&lt;li&gt;Applied Linguistic (B.A) | Wuhan University&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;skills&#34;&gt;Skills&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Investment research &amp;amp; asset allocation (Equity / Multi-asset / ETFs / Alternatives)&lt;/li&gt;&#xA;&lt;li&gt;Quantitative modeling: time-series analysis, risk modelling (VaR / GARCH), forecasting&lt;/li&gt;&#xA;&lt;li&gt;Corporate valuation &amp;amp; financial modeling (DCF, comparable analysis, capital budgeting)&lt;/li&gt;&#xA;&lt;li&gt;Data-driven decision-making in finance (econometrics, optimization, simulation)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;-lets-connect&#34;&gt;🔗 Let’s Connect&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;📧 Email: &lt;a href=&#34;mailto:zhiyinzh@upenn.edu&#34;&gt;zhiyinzh@upenn.edu&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;💼 LinkedIn: &lt;a href=&#34;https://www.linkedin.com/in/zhiyin-zhang-3402412b9&#34;&gt;Zhiyin-Zhang&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;📍 Location: Philadelphia · Singapore/HK willing to relocate&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
       <title>Life at CPGFM</title>
-      <link>http://localhost:1313/posts/test/</link>
+      <link>http://localhost:1313/post/test/</link>
       <pubDate>Tue, 02 Dec 2025 00:27:02 +0800</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
+      <guid>http://localhost:1313/post/test/</guid>
       <description>&lt;p&gt;Grateful to Singapore and CPGFM for Giving Me a New Lease on Life&lt;/p&gt;&#xA;&lt;p&gt;The past six months in Singapore have marked a fresh start in my life, and I’m deeply grateful for the support from &lt;a href=&#34;https://www.linkedin.com/company/cpg-facilities-management-pte-ltd/&#34;&gt;CPG Facilities Management Pte Ltd (CPG FM)&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I discovered my career path. Thanks to the leaders and colleagues I’ve met, I’ve received respect and valuable guidance in the workplace. They taught me essential business skills, as well as effective communication and collaboration techniques. I applied my policy analysis and data analytics skills in the industry and also took the initiative to learn foundational finance and accounting knowledge to broaden my expertise.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Back to Ewha Womans University</title>
+      <link>http://localhost:1313/post/cpgfm/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/cpgfm/</guid>
+      <description>&lt;p&gt;Back to Ewha Womans University &lt;a href=&#34;https://en.wikipedia.org/wiki/Ewha_Womans_University&#34;&gt;이화여자대학교&lt;/a&gt;, where I once joined a summer exchange program and connected with students and faculty worldwide. ❣️&lt;/p&gt;&#xA;&lt;p&gt;In sociology courses, we explored key issues like hakwon (supplementary education), gender roles, and economic development. For the final paper, I combined data analysis and interviews to study how gender shapes attitudes toward marriage and childbearing in South Korea.&lt;/p&gt;&#xA;&lt;p&gt;Grateful for the opportunity to deepen my understanding of East Asian societies through both academic and cross-cultural experiences. Looking forward to applying these insights to my future work in policy analysis and social research.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

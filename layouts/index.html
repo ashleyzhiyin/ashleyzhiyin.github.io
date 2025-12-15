@@ -1,0 +1,21 @@
+{{ define "main" }}
+  <div class="row">
+        <!-- USE SIDEBAR -->
+        <!-- Post Container -->
+   	    <div class="
+            col-lg-8 col-lg-offset-1
+            col-md-8 col-md-offset-1
+            col-sm-12
+            col-xs-12
+            post-container
+        ">
+            {{ .Content }}
+            <h1 id="all-posts">All Posts</h2>
+            {{ $paginator := .Paginate (where (where .Site.Pages "Type" "post") "IsPage" true) }}
+            {{ partial "post_list.html" . }}
+            {{ partial "pagination.html" . }}
+       	</div>
+        {{ partial "sidebar.html" . }}
+	</div>
+
+{{ end }}
