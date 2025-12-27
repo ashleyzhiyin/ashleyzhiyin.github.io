@@ -2,23 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://ashleyzhiyin.github.io/</loc>
+    <lastmod>2025-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ashleyzhiyin.github.io/post/2025reflection/</loc>
+    <lastmod>2025-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ashleyzhiyin.github.io/post/</loc>
+    <lastmod>2025-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ashleyzhiyin.github.io/about/</loc>
     <lastmod>2025-12-02T00:37:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2025-12-02T00:37:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/test/</loc>
+    <loc>https://ashleyzhiyin.github.io/post/test/</loc>
     <lastmod>2025-12-02T00:27:02+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-12-02T00:27:02+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/cpgfm/</loc>
+    <loc>https://ashleyzhiyin.github.io/post/cpgfm/</loc>
     <lastmod>2025-06-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://ashleyzhiyin.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://ashleyzhiyin.github.io/tags/</loc>
   </url>
 </urlset>

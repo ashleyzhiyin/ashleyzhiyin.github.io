@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Zhiyin Zhang&#39;s Homepage</title>
-    <link>http://localhost:1313/post/</link>
+    <link>https://ashleyzhiyin.github.io/post/</link>
     <description>Recent content in Posts on Zhiyin Zhang&#39;s Homepage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Dec 2025 00:27:02 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ashleyzhiyin.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 Reflection</title>
+      <link>https://ashleyzhiyin.github.io/post/2025reflection/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://ashleyzhiyin.github.io/post/2025reflection/</guid>
+      <description>&lt;p&gt;2025 was a year of pressure, complexity, and real growth for me. Rather than following a linear or comfortable path, I navigated multiple systems simultaneously—academics, immigration constraints, early-career positioning, and cross-border decisions. While this came with anxiety and uncertainty, it also forced me to develop resilience, structure, and professional clarity. By the end of 2025, I am no longer “exploring aimlessly,” but operating with a defined skill set in finance, data, and research, and with a clearer understanding of how global systems function.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Life at CPGFM</title>
-      <link>http://localhost:1313/post/test/</link>
+      <link>https://ashleyzhiyin.github.io/post/test/</link>
       <pubDate>Tue, 02 Dec 2025 00:27:02 +0800</pubDate>
-      <guid>http://localhost:1313/post/test/</guid>
+      <guid>https://ashleyzhiyin.github.io/post/test/</guid>
       <description>&lt;p&gt;Grateful to Singapore and CPGFM for Giving Me a New Lease on Life&lt;/p&gt;&#xA;&lt;p&gt;The past six months in Singapore have marked a fresh start in my life, and I’m deeply grateful for the support from &lt;a href=&#34;https://www.linkedin.com/company/cpg-facilities-management-pte-ltd/&#34;&gt;CPG Facilities Management Pte Ltd (CPG FM)&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I discovered my career path. Thanks to the leaders and colleagues I’ve met, I’ve received respect and valuable guidance in the workplace. They taught me essential business skills, as well as effective communication and collaboration techniques. I applied my policy analysis and data analytics skills in the industry and also took the initiative to learn foundational finance and accounting knowledge to broaden my expertise.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Back to Ewha Womans University</title>
-      <link>http://localhost:1313/post/cpgfm/</link>
+      <link>https://ashleyzhiyin.github.io/post/cpgfm/</link>
       <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/cpgfm/</guid>
+      <guid>https://ashleyzhiyin.github.io/post/cpgfm/</guid>
       <description>&lt;p&gt;Back to Ewha Womans University &lt;a href=&#34;https://en.wikipedia.org/wiki/Ewha_Womans_University&#34;&gt;이화여자대학교&lt;/a&gt;, where I once joined a summer exchange program and connected with students and faculty worldwide. ❣️&lt;/p&gt;&#xA;&lt;p&gt;In sociology courses, we explored key issues like hakwon (supplementary education), gender roles, and economic development. For the final paper, I combined data analysis and interviews to study how gender shapes attitudes toward marriage and childbearing in South Korea.&lt;/p&gt;&#xA;&lt;p&gt;Grateful for the opportunity to deepen my understanding of East Asian societies through both academic and cross-cultural experiences. Looking forward to applying these insights to my future work in policy analysis and social research.&lt;/p&gt;</description>
     </item>
   </channel>
