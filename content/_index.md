@@ -22,7 +22,7 @@
 ## 🔗 Let’s Connect
 📧 Email: zhiyinzh@upenn.edu  
 💼 LinkedIn: https://www.linkedin.com/in/zhiyin-zhang-3402412b9  
-📍 Location: New York · HongKong · Singapore willing to relocate
+📍 Location: New York · Hongkong · Singapore willing to relocate
 
 
 ---
