@@ -22,6 +22,7 @@
 ## 🔗 Let’s Connect
 📧 Email: zhiyinzh@upenn.edu  
 💼 LinkedIn: https://www.linkedin.com/in/zhiyin-zhang-3402412b9  
-📍 Location: Philadelphia · Singapore / Hong Kong (willing to relocate)
+📍 Location: New York · HongKong · Singapore willing to relocate
+
 
 ---
