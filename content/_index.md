@@ -2,7 +2,7 @@
 - Asset / risk management
 - Exploring opportunities in Hong Kong / Singapore / U.S. buy-side firms
 
-## Experience
+## Professional Experience
 - Real Estate Consulting Intern - CPG FM (Singapore)
 - Equity Analyst Intern — WorldQuant Brain (Singapore)
 - Equity Analyst Intern — China International Capital Corporation Limited (Shanghai)
